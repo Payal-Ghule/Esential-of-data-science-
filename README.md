@@ -1,1 +1,0 @@
-# Esential-of-data-science-
